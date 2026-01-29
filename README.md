@@ -20,11 +20,11 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="/DailyDesign/screenshot1.png" width="250" alt="Home Screen">
+  <img src="/Daily Design/screenshot2.png" width="250" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/DailyDesign/screenshot2.png" width="250" alt="Detail View">
+  <img src="/Daily Design/screenshot2.png" width="250" alt="Detail View">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/DailyDesign/screenshot3.png" width="250" alt="Dark Mode">
+  <img src="/Daily Design/screenshot3.png" width="250" alt="Dark Mode">
 </p>
 
 ---
