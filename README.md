@@ -20,7 +20,7 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="path/to/screenshot1.png" width="250" alt="Home Screen">
+  <img src="/screenshot1.png" width="250" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="path/to/screenshot2.png" width="250" alt="Detail View">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,6 +61,7 @@ DailyDesign/
 ├── Views/            # SwiftUI screens & Components (HomeView.swift)
 ├── Services/         # Networking layer
 └── DailyDesignApp.swift
+```
 
 
 ## 🚀 Getting Started
@@ -71,6 +72,7 @@ Follow these steps to run the project locally.
 ```bash
 git clone https://github.com/your-username/DailyDesign.git
 cd DailyDesign
+```
 
 ### 2️⃣ Open in Xcode
 
@@ -89,3 +91,27 @@ This app requires a **free API key** from Unsplash.
 
 ```swift
 let accessKey = "YOUR_ACCESS_KEY_HERE"
+```
+
+## 4️⃣ Run the App
+
+Select a simulator (e.g., iPhone 17 Pro) and press Run (Cmd + R).
+
+
+## 🔮 Future Improvements
+
+ Download Feature
+Allow users to save wallpapers directly to Photos.
+
+ Favorites
+Local persistence using CoreData or SwiftData.
+
+ User Profiles
+View photographer details and portfolios.
+
+## 👨‍💻 Author
+Rishabh Kumar
+
+iOS Developer | Final Year B.Tech (CSD) at IIITD
+
+LinkedIn | Portfolio
