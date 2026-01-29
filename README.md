@@ -20,7 +20,7 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="/Daily Design/screenshot2.png" width="250" alt="Home Screen">
+  <img src="/Daily Design/screenshot1.png" width="250" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/Daily Design/screenshot2.png" width="250" alt="Detail View">
   &nbsp;&nbsp;&nbsp;&nbsp;
