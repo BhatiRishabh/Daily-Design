@@ -17,7 +17,7 @@ class HomeViewModel: ObservableObject {
     // Pagination helpers
     var page = 1
     
-    let accessKey = "4pSXVEkRdiBLd056wGKe4As4h_3WRQm5vbQ7d-arUe0"
+    let accessKey = Secrets.unsplashAccessKey
     
     func fetchImages() async {
         let urlString = "https://api.unsplash.com/search/photos?page=\(page)&query=\(searchText)&client_id=\(accessKey)&per_page=20"

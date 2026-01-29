@@ -15,9 +15,33 @@
 		558B1A4A2F2A7E7F00FF52AE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		55FFB58D2F2BC7C7002EE486 /* Exceptions for "Daily Design" folder in "Daily Design" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				.gitignore,
+			);
+			target = 558B1A312F27402B00FF52AE /* Daily Design */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		55FFB58E2F2BC7C7002EE486 /* Exceptions for "Daily Design" folder in "Compile Sources" phase from "Daily Design" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 558B1A2E2F27402B00FF52AE /* Sources */;
+			membershipExceptions = (
+				.gitignore,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		558B1A342F27402B00FF52AE /* Daily Design */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				55FFB58D2F2BC7C7002EE486 /* Exceptions for "Daily Design" folder in "Daily Design" target */,
+				55FFB58E2F2BC7C7002EE486 /* Exceptions for "Daily Design" folder in "Compile Sources" phase from "Daily Design" target */,
+			);
 			path = "Daily Design";
 			sourceTree = "<group>";
 		};
