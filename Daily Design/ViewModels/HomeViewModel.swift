@@ -50,7 +50,6 @@ class HomeViewModel: ObservableObject {
     }
 }
 
-// Helper struct specifically for the Search API response
 struct UnsplashSearchResult: Codable {
     let results: [UnsplashImage]
 }
