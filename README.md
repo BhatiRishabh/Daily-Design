@@ -22,9 +22,9 @@
 <p align="center">
   <img src="/screenshot1.png" width="250" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="path/to/screenshot2.png" width="250" alt="Detail View">
+  <img src="/screenshot2.png" width="250" alt="Detail View">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="path/to/screenshot3.png" width="250" alt="Dark Mode">
+  <img src="/screenshot3.png" width="250" alt="Dark Mode">
 </p>
 
 ---
@@ -114,4 +114,4 @@ Rishabh Kumar
 
 iOS Developer | Final Year B.Tech (CSD) at IIITD
 
-LinkedIn | Portfolio
+[LinkedIn](https://www.linkedin.com/in/rishabh-kumar-profile/) | [Portfolio](https://rishabhdev31.vercel.app/)
