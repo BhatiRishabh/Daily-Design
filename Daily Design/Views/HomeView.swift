@@ -38,20 +38,20 @@ struct HomeView: View {
                                     .resizable()
                                     .scaledToFill()
                                     .frame(minWidth: 0, maxWidth: .infinity)
-                                    .frame(height: 250) // Fixed height for simplicity in V1
+                                    .frame(height: 250)
                                     .cornerRadius(12)
                                     .clipped()
                             } else if phase.error != nil {
-                                Color.red // Error placeholder
+                                Color.red
                                     .frame(height: 250)
                             } else {
-                                ProgressView() // Loading spinner
+                                ProgressView()
                                     .frame(height: 250)
                             }
                         }
                         .onAppear {
-                            // Infinite Scroll Logic:
-                            // When the last image appears, fetch more!
+                            
+                            // When the last image appears, fetch more images by calling the fetchimages again
                             if image.id == viewModel.images.last?.id {
                                 Task { await viewModel.fetchImages() }
                             }
