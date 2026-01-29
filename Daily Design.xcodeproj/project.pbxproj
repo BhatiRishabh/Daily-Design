@@ -9,12 +9,14 @@
 /* Begin PBXBuildFile section */
 		558B1A4C2F2A7E8500FF52AE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 558B1A4A2F2A7E7F00FF52AE /* README.md */; };
 		55FFB58C2F2BC7C2002EE486 /* .gitignore in Sources */ = {isa = PBXBuildFile; fileRef = 55FFB58A2F2BC7BC002EE486 /* .gitignore */; };
+		55FFB5902F2BC82A002EE486 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FFB58F2F2BC826002EE486 /* Secrets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		558B1A322F27402B00FF52AE /* Daily Design.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daily Design.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		558B1A4A2F2A7E7F00FF52AE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55FFB58A2F2BC7BC002EE486 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		55FFB58F2F2BC826002EE486 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -42,6 +44,7 @@
 				558B1A342F27402B00FF52AE /* Daily Design */,
 				558B1A4A2F2A7E7F00FF52AE /* README.md */,
 				55FFB58A2F2BC7BC002EE486 /* .gitignore */,
+				55FFB58F2F2BC826002EE486 /* Secrets.swift */,
 				558B1A332F27402B00FF52AE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55FFB5902F2BC82A002EE486 /* Secrets.swift in Sources */,
 				55FFB58C2F2BC7C2002EE486 /* .gitignore in Sources */,
 				558B1A4C2F2A7E8500FF52AE /* README.md in Sources */,
 			);
